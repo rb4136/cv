@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #959595;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Ranchers', cursive;
+  font-size: 5.625rem;
+  letter-spacing: 0.5rem;
+  color: #bbbbbb;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #297ca0;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #297ca0;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 4px;
+  color: #bbbbbb;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a:hover {
+  color: #46185f;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.subtitle {
+  font-weight: normal;
+  color: #bbbbbb;
+}
+
+.top-container {
+  background-color: #46185F;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bio {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.skill-img-travel {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.skill-img-coding {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #e9ea77;
+  position: relative;
+  margin: auto;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: #297ca0;
+  font-weight: bold;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
+
+.contact-button {
+  background: #297CA0;
+  border-radius: 20px;
+  color: #BBBBBB;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  font-weight: 100;
+  padding: 1rem;
+  box-shadow: 1px 1px 10px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
